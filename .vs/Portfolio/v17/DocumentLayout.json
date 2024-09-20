@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\an096\\source\\repos\\Portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD4516D-F8E3-42B1-AB4A-AF0DC8EEB56E}|Portfolio\\Portfolio.csproj|c:\\users\\an096\\source\\repos\\portfolio\\portfolio\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CD4516D-F8E3-42B1-AB4A-AF0DC8EEB56E}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD4516D-F8E3-42B1-AB4A-AF0DC8EEB56E}|Portfolio\\Portfolio.csproj|c:\\users\\an096\\source\\repos\\portfolio\\portfolio\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CD4516D-F8E3-42B1-AB4A-AF0DC8EEB56E}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\an096\\source\\repos\\Portfolio\\Portfolio\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\an096\\source\\repos\\Portfolio\\Portfolio\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Portfolio\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T17:47:57.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\an096\\source\\repos\\Portfolio\\Portfolio\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Portfolio\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\an096\\source\\repos\\Portfolio\\Portfolio\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Portfolio\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAJMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T09:25:02.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
